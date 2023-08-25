@@ -1,2 +1,2 @@
-# TrendyTees
-The Clothing Store
+# Trendy Tees
+### Online webstore for your Apparel needs!
